@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0202a3095b7477a4091d56344f0af6b3, type: 3}
+  m_Name: "\u0414\u0438\u0430\u043B\u043E\u0433\u0421\u041C\u043E\u0440\u0442\u0438Graph"
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: "\u0414\u0438\u0430\u043B\u043E\u0433\u0421\u041C\u043E\u0440\u0442\u0438"
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: c23e0529-225e-428e-b313-833d6e991e2f
+    <Name>k__BackingField: 4e352fc2-4162-4437-9191-fba4c13abc1c
+    <Text>k__BackingField: "\u041B\u0430\u0430\u0430\u0430\u0430\u0434\u043D\u043E
+      \u0438\u0434\u0438 \u0434\u0430\u0432\u0430\u0432\u0439"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: "\u041A\u043E\u043D\u0435\u0446"
+      <NodeID>k__BackingField: 8474333a-5cf4-46f1-bfba-f2a11c7ea047
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 1418, y: 235}
+    <Action>k__BackingField: 4
+    <NodeMainColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+  - <ID>k__BackingField: ca07b6cd-f61e-4092-b42b-abdcbb99abb2
+    <Name>k__BackingField: 1589514e-f6f4-43ed-af0a-4f870c3eeebc
+    <Text>k__BackingField: "\u041E! \u0421\u043F\u0430\u0441\u0438\u0431\u043E! \u041F\u0440\u043E\u0445\u043E\u0434\u0438
+      \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 49a495ad-db4c-4eee-a4fb-a919f7273aa5
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 1418, y: -50}
+    <Action>k__BackingField: 4
+    <NodeMainColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+  - <ID>k__BackingField: 03fb5eab-bf37-4cd9-94d9-b07aad485e1b
+    <Name>k__BackingField: 965a820e-0c93-493f-9dc5-5da79a5b8121
+    <Text>k__BackingField: "\u0422\u0435\u043A\u0441\u0442"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: d10a95ae-d4e5-42b8-8547-49cf76e5c435
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 2
+    <Position>k__BackingField: {x: 560, y: 816}
+    <Action>k__BackingField: 6
+    <NodeMainColor>k__BackingField: {r: 0, g: 1, b: 0, a: 1}
+  - <ID>k__BackingField: 05e12d67-e6fb-4640-9019-70f2dd8e031f
+    <Name>k__BackingField: a3e372c6-22b7-4e47-9219-33598eac305b
+    <Text>k__BackingField: "\u041D\u0430\u0442\u0443\u0440\u043E\u0439 \u043D\u0435
+      \u043D\u0430\u0434\u043E \u0441\u0440\u0430\u043D\u044B\u0439 \u0438\u0437\u0432\u0440\u0430\u0442!
+      \u041F\u0440\u043E\u0432\u0430\u043B\u0438\u0432\u0430\u0439 \u043E\u0442\u0441\u044E\u0434\u0430"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: "\u041A\u043E\u043D\u0435\u0446"
+      <NodeID>k__BackingField: 86808c14-d685-4b1a-b18b-a0f65b25f4e0
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 560, y: 525}
+    <Action>k__BackingField: 4
+    <NodeMainColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+  - <ID>k__BackingField: 49a495ad-db4c-4eee-a4fb-a919f7273aa5
+    <Name>k__BackingField: a8647911-2935-469f-a88b-7359d6e74e8f
+    <Text>k__BackingField: "\u0422\u0435\u043A\u0441\u0442"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 2
+    <Position>k__BackingField: {x: 1886, y: -50}
+    <Action>k__BackingField: 5
+    <NodeMainColor>k__BackingField: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - <ID>k__BackingField: 8474333a-5cf4-46f1-bfba-f2a11c7ea047
+    <Name>k__BackingField: 3484b23a-87c0-47f4-acc1-a50fa3b3fcf6
+    <Text>k__BackingField: "\u0422\u0435\u043A\u0441\u0442"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 2
+    <Position>k__BackingField: {x: 1895, y: 235}
+    <Action>k__BackingField: 5
+    <NodeMainColor>k__BackingField: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - <ID>k__BackingField: 86808c14-d685-4b1a-b18b-a0f65b25f4e0
+    <Name>k__BackingField: 71fb731f-938c-40d4-a0fe-042bd3974f71
+    <Text>k__BackingField: "\u0422\u0435\u043A\u0441\u0442"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 2
+    <Position>k__BackingField: {x: 1891, y: 525}
+    <Action>k__BackingField: 5
+    <NodeMainColor>k__BackingField: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - <ID>k__BackingField: a415b356-cbbc-4057-a4b7-abef91ba4f49
+    <Name>k__BackingField: c549eae9-e4e1-4712-928d-d68f43763be2
+    <Text>k__BackingField: "\u0422\u0435\u043A\u0441\u0442"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 2
+    <Position>k__BackingField: {x: 1886, y: 816}
+    <Action>k__BackingField: 5
+    <NodeMainColor>k__BackingField: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - <ID>k__BackingField: ff41da5e-d466-43b6-8039-b1112768d4a0
+    <Name>k__BackingField: c4e62162-2a9e-4d3e-81b8-4b74878e4961
+    <Text>k__BackingField: "\u0422\u0435\u043A\u0441\u0442"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 2
+    <Position>k__BackingField: {x: 1886, y: -369}
+    <Action>k__BackingField: 5
+    <NodeMainColor>k__BackingField: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - <ID>k__BackingField: 009a2886-eb31-4030-a359-39250253ce73
+    <Name>k__BackingField: 0ec30b49-6fea-474c-8515-2e23bad53765
+    <Text>k__BackingField: "\u0422\u0435\u043A\u0441\u0442"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: ff41da5e-d466-43b6-8039-b1112768d4a0
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 2
+    <Position>k__BackingField: {x: 1418, y: -369}
+    <Action>k__BackingField: 0
+    <NodeMainColor>k__BackingField: {r: 0, g: 1, b: 0, a: 1}
+  - <ID>k__BackingField: 74009254-02db-4205-9c32-a9b75f389223
+    <Name>k__BackingField: 56a20751-8424-48e4-8a70-0cee6a8ff611
+    <Text>k__BackingField: "\u0429\u0430 \u043F\u043E\u0441\u043C\u043E\u0442\u0440\u0438
+      \u043A\u0442\u043E \u043A\u043E\u0433\u043E"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: New Choice
+      <NodeID>k__BackingField: 009a2886-eb31-4030-a359-39250253ce73
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 583, y: -369}
+    <Action>k__BackingField: 4
+    <NodeMainColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+  - <ID>k__BackingField: 51754973-34e8-4deb-8757-85d7f90337d5
+    <Name>k__BackingField: 9e4478fd-fc8f-4bcf-8052-bf8a4f800a3c
+    <Text>k__BackingField: "\u041D\u0443 \u0442\u0430\u043A \u0430 \u0442\u044B \u043F\u043E
+      \u043A\u0430\u0440\u043C\u0430\u043D\u0430\u043C \u0441\u0432\u043E\u0438\u043C
+      \u043F\u043E\u0438\u0449\u0438! \u041C\u043E\u0436 \u0447\u0435 \u043D\u0430\u0439\u0434\u0435\u0448\u044C!"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: "\u041D\u0443 \u0432\u043E\u0442 \u043D\u0430\u0448\u043E\u043B!
+        \u0414\u0435\u0440\u0436\u0438"
+      <NodeID>k__BackingField: ca07b6cd-f61e-4092-b42b-abdcbb99abb2
+    - <Text>k__BackingField: "\u0414\u0430 \u0433\u043E\u0432\u043E\u0440\u044E \u0436\u0435
+        \u0447\u0442\u043E \u043D\u0435\u0442 \u0434\u0435\u043D\u0435\u0433"
+      <NodeID>k__BackingField: c23e0529-225e-428e-b313-833d6e991e2f
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 560, y: 89}
+    <Action>k__BackingField: 4
+    <NodeMainColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+  - <ID>k__BackingField: 47ebf533-46b0-434b-8cd2-f5adddc5888d
+    <Name>k__BackingField: e1619037-eb18-4ac7-a8ef-f9d409166f58
+    <Text>k__BackingField: "\u0421\u0442\u043E\u0439! \u041F\u0440\u043E\u0445\u043E\u0434
+      \u0442\u0443\u0442 \u043F\u043B\u0430\u0442\u043D\u044B\u0439 \u0438 \u044F,
+      \u0442\u043E\u0435\u0441\u0442\u044C \u043C\u044B \u0442\u0443\u0442 \u0441\u0442\u043E\u0438\u043C...\u0432\u043E\u0442!\n\u0434\u0430\u0432\u0430\u0439
+      \u043F\u043B\u0430\u0442\u0438 \u043C\u043D\u0435 \u0434\u0435\u043D\u0435\u043A "
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: "\u042F \u0442\u0435\u0431\u0435 \u0449\u0430 \u043F\u043E
+        \u0433\u043E\u043B\u043E\u0432\u0435 \u0437\u0430\u043F\u043B\u0430\u0447\u0443"
+      <NodeID>k__BackingField: 74009254-02db-4205-9c32-a9b75f389223
+    - <Text>k__BackingField: "\u0423 \u043C\u0435\u043D\u044F \u043D\u0435\u0442
+        \u0434\u0435\u043D\u0435\u0433"
+      <NodeID>k__BackingField: 51754973-34e8-4deb-8757-85d7f90337d5
+    - <Text>k__BackingField: "\u043C\u043E\u0436\u0435\u0442\u0432\u043E\u0437\u044C\u043C\u0435\u0448
+        \u043D\u0430\u0442\u0443\u0440\u043E\u0439"
+      <NodeID>k__BackingField: 05e12d67-e6fb-4640-9019-70f2dd8e031f
+    - <Text>k__BackingField: "\u0422\u043E\u0440\u0433\u043E\u0432\u0430\u0442\u044C"
+      <NodeID>k__BackingField: 03fb5eab-bf37-4cd9-94d9-b07aad485e1b
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: -262, y: 163}
+    <Action>k__BackingField: 4
+    <NodeMainColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+  - <ID>k__BackingField: d10a95ae-d4e5-42b8-8547-49cf76e5c435
+    <Name>k__BackingField: 29038933-b001-429b-8df8-246614b96bf2
+    <Text>k__BackingField: "\u0422\u043E\u0440\u0433\u0443\u0435\u043C"
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: "\u041A\u043E\u043D\u0435\u0446"
+      <NodeID>k__BackingField: a415b356-cbbc-4057-a4b7-abef91ba4f49
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 1
+    <Position>k__BackingField: {x: 1418, y: 816}
+    <Action>k__BackingField: 4
+    <NodeMainColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - 4e352fc2-4162-4437-9191-fba4c13abc1c
+  - 1589514e-f6f4-43ed-af0a-4f870c3eeebc
+  - 965a820e-0c93-493f-9dc5-5da79a5b8121
+  - a3e372c6-22b7-4e47-9219-33598eac305b
+  - a8647911-2935-469f-a88b-7359d6e74e8f
+  - 3484b23a-87c0-47f4-acc1-a50fa3b3fcf6
+  - 71fb731f-938c-40d4-a0fe-042bd3974f71
+  - c549eae9-e4e1-4712-928d-d68f43763be2
+  - c4e62162-2a9e-4d3e-81b8-4b74878e4961
+  - 0ec30b49-6fea-474c-8515-2e23bad53765
+  - 56a20751-8424-48e4-8a70-0cee6a8ff611
+  - 9e4478fd-fc8f-4bcf-8052-bf8a4f800a3c
+  - e1619037-eb18-4ac7-a8ef-f9d409166f58
+  - 29038933-b001-429b-8df8-246614b96bf2
+  <OldGroupedNodeNames>k__BackingField:
+    list: []
