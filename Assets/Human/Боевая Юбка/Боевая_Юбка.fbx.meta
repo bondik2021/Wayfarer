@@ -15,7 +15,12 @@ ModelImporter:
   - first:
       74: 6968760026637454404
     second: Armature|Armature|Default.002
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tasset
+    second: {fileID: 2100000, guid: a7d8e14071f4e8c4ab3675e3dddb8a4a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
