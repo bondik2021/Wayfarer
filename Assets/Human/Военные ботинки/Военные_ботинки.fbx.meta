@@ -12,7 +12,12 @@ ModelImporter:
   - first:
       74: 7720918607887984794
     second: Armature.001|Armature|Default.001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Greave
+    second: {fileID: 2100000, guid: 0e34a7d747284ba4e93c66b47ecd9859, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
